@@ -2,9 +2,9 @@
 
 
 /**
- * main - The main function
+ * main - The main function to print first 99 fibonacci numbers
  * 1 and 2, seperated by a comma
- * Return: 0.
+ * Return: Always 0.
  */
 
 

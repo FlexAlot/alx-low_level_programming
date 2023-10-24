@@ -1,9 +1,9 @@
-#include "main.h"
+#include <stdio.h>
 
 
 /**
- * main - multiples of 3 and 5 upto 1024
- * Return: Always
+ * main - Prints the sum of all multiples of 3 and 5 upto 1024
+ * Return: Always (Success)
  *
  */
 

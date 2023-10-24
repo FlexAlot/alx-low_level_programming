@@ -2,9 +2,9 @@
 
 
 /**
- * main - check the code.
+ * main - multiples of 3 and 5 upto 1024
+ * Return: Always
  *
- * Return: Always 0.
  */
 
 
